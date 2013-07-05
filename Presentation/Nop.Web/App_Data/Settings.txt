@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.\SQLEXPRESS;Initial Catalog=UhaniCom;Integrated Security=False;Persist Security Info=False;User ID=Uho;Password=UhaniCom;MultipleActiveResultSets=True
